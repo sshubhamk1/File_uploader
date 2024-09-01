@@ -1,0 +1,7 @@
+__pycache__
+.venv
+uploads
+run_script.sh
+ENV.cmd
+.gitignore
+.git
